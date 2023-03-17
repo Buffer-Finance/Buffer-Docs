@@ -13,6 +13,8 @@ Anyone can mint the BLP tokens by providing liquidity to the Buffer USDC vault. 
 
 Once the BLP token, is minted, it automatically gets staked and begins to accrue esBFR rewards and trading fees in USDC.
 
+Staked BLP token address (Arbitrum): https://arbiscan.io/token/0x7d1d610Fe82482412842e8110afF1cB72FA66bc8
+
 ## Probabilistic edge
 
 The pool has a probabilistic edge that can generate a positive yield consistently over the long term. The probability of the price of an asset going up or down from the current price within a short period of time is typically 50%, but the payout offered to the trader is not 1:1 to the pay-in amount.
