@@ -69,7 +69,7 @@ The Settlement Fees charged while buying an option is sent to this contract via 
 
 BFR is the governance token of the platform, it is a regular ERC20 token that can be staked for rewards.
 
-**GLP**
+**BLP**
 
 BLP is the liquidity provider token of the platform, it can be minted using any of the tokens within the liquidity pool, currently USDC.
 
@@ -170,10 +170,8 @@ This opens a trade of the max possible value and refunds the rest of the fees ba
 
 In our case slippage is used as the accepted price movement b/w when the user initiates the trade and when the trade is actually opened.
 
-The FE(frontend) is fetching the price feed from some Price APIs(which take a median over multiple exchanges) --> when the user opens the trade from the FE )(launching an initiateTrade txn), this price from the API is used --> then when the keeper opens the trade it provides the price at the blockNumber where the initiateTrade txn was accepted. So there can be a difference b/w the price provided on the FE and that used by the keeper, that is why we check for slippage.
-
-it is\
-The trade will be opened at the price provided by the keeper if its within the slippage with the price provided by the user.&#x20;
+The FE(frontend) is fetching the price feed from some Price APIs(which take a median over multiple exchanges) --> when the user opens the trade from the FE )(launching an initiateTrade txn), this price from the API is used --> then when the keeper opens the trade it provides the price at the blockNumber where the initiateTrade txn was accepted. So there can be a difference b/w the price provided on the FE and that used by the keeper, that is why we check for slippage.\
+The trade will be opened at the price provided by the keeper if it's within the slippage with the price provided by the user.&#x20;
 
 #### What is the difference between lockedAmount and lockedPremium on BufferBinaryPool.sol?
 
