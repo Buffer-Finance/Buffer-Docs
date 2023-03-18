@@ -1,5 +1,5 @@
 ---
-description: Learn the basics about liquidity provisioning on Buffer
+description: Learn the basic mechanism of liquidity provisioning on Buffer
 ---
 
 # Liquidity Pool

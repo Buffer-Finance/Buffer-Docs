@@ -1,3 +1,7 @@
+---
+description: summary of fees charged by the Buffer protocol
+---
+
 # Fee distribution
 
 The fee paid at the time of opening a trade goes to the [Settlement Fee Disbursal(SFD) contract](https://automation.chain.link/arbitrum/109303885389665712720457602338769546314168992214556194478546599960107579106479). SFD contract transfers this fee to the reward distributor contracts of staking.

@@ -1,3 +1,7 @@
+---
+description: Overview of all Buffer system configurations
+---
+
 # All Configs
 
 ### Global Parameters
@@ -45,7 +49,7 @@ Percent of the pool's available balance above which the user cannot buy a trade(
 | baseSettlementFeePercentageForAbove | Max settlement fee percentage a user will be charged for opening an UP trade              | BufferBinaryOptions | `configure`                         |
 | baseSettlementFeePercentageForBelow | Max settlement fee percentage a user will be charged for opening an DOWN trade            | BufferBinaryOptions | `configure`                         |
 | nftTierStep                         | Mapping of NFT tier to the step reduction in the settlement fee percentage                | BufferBinaryOptions | `configure`                         |
-| isPaused                            | <p>Used for pausing/unpausing </p><p>trading</p>                                          | BufferBinaryOptions | `toggleCreation`                    |
+| isPaused                            | <p>Used for pausing/unpausing</p><p>trading</p>                                           | BufferBinaryOptions | `toggleCreation`                    |
 | maxLiquidity                        | Max pool capacity                                                                         | BufferBinaryPool    | `setMaxLiquidity`                   |
 | contractRegistry                    | List of trading contracts with a flag depicting whether or not trading is allowed on them | BufferRouter        | `setContractRegistry`               |
 | isInPrivateKeeperMode               | If true only the keepers can open/close the trades. Else anyone can                       | BufferRouter        | `setInPrivateKeeperMode`            |
@@ -83,8 +87,7 @@ Percent of the pool's available balance above which the user cannot buy a trade(
 | un`stakeForAccount`          | -                     | unstake for another account                 | RewardTracker                                                                  |
 | `claimForAccount`            | -                     | claim for another account                   | RewardTracker                                                                  |
 | `setHasMaxVestableAmount`    | hasMaxVestableAmount  | Sets/unsets hasMaxVestableAmount            | Vester                                                                         |
-| `depositForAccount`          | -                     | Deposits  for another account               | Vester                                                                         |
+| `depositForAccount`          | -                     | Deposits for another account                | Vester                                                                         |
 | `setGov`                     | -                     | Set gov role                                | RewardDistributor / BonusDistributor / RewardRouterV2 / Vester / RewardTracker |
 | `setMinter`                  | -                     | Sets minter role                            | esBfr / bnBfr                                                                  |
 | `mint`                       | -                     | Mints for account                           | esBfr / bnBfr                                                                  |
-

@@ -1,3 +1,9 @@
+---
+description: >-
+  The referral program allows referrers to introduce new users to the protocol
+  and earn trader rewards on the every trade made by the referee
+---
+
 # How to become a referrer?
 
 ### Step 1: Getting Started

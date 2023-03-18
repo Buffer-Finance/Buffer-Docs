@@ -1,5 +1,5 @@
 ---
-description: Learn the basics about trading on Buffer
+description: Learn the mechanism of trading on Buffer
 ---
 
 # Trading
