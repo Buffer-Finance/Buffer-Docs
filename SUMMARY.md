@@ -67,3 +67,7 @@
 
 * [Media Kit](references/fee-distribution.md)
 * [App Links](references/contract-functions.md)
+
+## Treasury
+
+* [Treasury Contracts](treasury/treasury-contracts.md)
