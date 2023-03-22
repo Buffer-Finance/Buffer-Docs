@@ -14,11 +14,9 @@ Buffer abstracts complexity from options trading and lets DeFi-native traders tr
 
 All trades are placed against a liquidity pool, liquidity providers can provide liqudity and take the counterparty risk to earn a part of the platform fee and esBFR token incentives&#x20;
 
-#### **The Future of Buffer Finance**
+#### **The flywheel effect**
 
-As the ecosystem grows - BLP and trading activities increase on Buffer, the volume benefits for Buffer users will be compounding. As the project evolves, we will guide the protocol towards full decentralization and community governance (by BFR holders) and empower projects to list their tokens without any intervention by the Buffer Finance Team.
-
-The possibilities for expansion are limitless, and we expect many more use cases for Buffer that we have yet to discover.
+<-->
 
 **Quick Links**
 
