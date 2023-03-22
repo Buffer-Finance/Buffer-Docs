@@ -20,6 +20,6 @@ All trades are placed against a liquidity pool, liquidity providers can provide 
 
 **Quick Links**
 
-* **For traders:** [Buffer for traders](introduction/buffer-for-traders.md); [How to place trades](quick-start-guides/how-to-place-trades.md); How to play tournaments, [Protocol mechanism (Traders)](protocol-mechanism/trading.md)
-* **For liquidity providers:** [Buffer for LPs](introduction/buffer-for-lps.md), [How to Provide Liquidity](quick-start-guides/how-to-provide-liqudity.md), P[rotocol mechanism (Liquidity Pool)](protocol-mechanism/liquidity-pool.md)
-* **For token holders:** [Buffer for Token Holders](https://app.gitbook.com/s/as8muGJZvVrS0BgDB8hJ/\~/changes/3/introduction/buffer-for-token-holders), [Tokenomics](https://app.gitbook.com/s/as8muGJZvVrS0BgDB8hJ/\~/changes/3/tokenomics)
+* **For traders:** [Buffer for traders](introduction/buffer-for-traders.md); [How to place trades](quick-start-guides/how-to-place-trades.md); [Protocol mechanism (Traders)](protocol-mechanism/trading.md)
+* **For liquidity providers:** [Buffer for LPs](introduction/buffer-for-lps.md); [How to Provide Liquidity](quick-start-guides/how-to-provide-liqudity.md); P[rotocol mechanism (Liquidity Pool)](protocol-mechanism/liquidity-pool.md)
+* **For token holders:** [Buffer for Token Holders](https://app.gitbook.com/s/as8muGJZvVrS0BgDB8hJ/\~/changes/3/introduction/buffer-for-token-holders); [Tokenomics](https://app.gitbook.com/s/as8muGJZvVrS0BgDB8hJ/\~/changes/3/tokenomics)
