@@ -15,7 +15,6 @@ The payouts are typically about 1.4 -1.9x of the pay-in and can be further boost
 * No liquidation risk
 * Pre-defined risk-reward
 * No funding rates
-* No scam wicks
 * Transparent & decentralized
 * Non-custodial
 * Simple and seamless trading experience
