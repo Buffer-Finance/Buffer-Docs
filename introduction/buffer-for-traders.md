@@ -28,4 +28,4 @@ The payouts are typically about 1.4 -1.9x of the pay-in and can be further boost
 #### Quick links:
 
 * To trade options on Buffer, go to [https://app.buffer.finance/#/binary/GBP-USD](https://app.buffer.finance/#/binary/GBP-USD)
-* To learn how to place trades, go to the [how to stake on Buffer](../quick-start-guides/how-to-place-trades.md) guide
+* To learn how to place trades, go to the [how to place trades](../quick-start-guides/how-to-place-trades.md) guide
