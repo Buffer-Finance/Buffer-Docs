@@ -16,6 +16,7 @@
 * [How to place trades?](quick-start-guides/how-to-place-trades.md)
 * [How to provide liqudity?](quick-start-guides/how-to-provide-liqudity.md)
 * [How to stake?](quick-start-guides/how-to-stake.md)
+* [How to vest?](quick-start-guides/how-to-vest.md)
 * [How to become a referrer?](quick-start-guides/how-to-become-referrer.md)
 * [How to use the Practice Mode?](quick-start-guides/how-to-use-the-practice-mode.md)
 * [How to buy Optopi NFT?](quick-start-guides/how-to-buy-optopi-nft.md)
