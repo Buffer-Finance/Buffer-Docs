@@ -27,7 +27,7 @@ Once your account fulfills the criteria for tier 2 or tier 3, you can fill out t
 
 ## Rewards: <a href="#c2cf" id="c2cf"></a>
 
-* **Trader Rewards:**
+* **Referer Rewards:**
 
 For referrers of the program, the yield comes from the trades made by their referral network. If someone, a user uses your Referral Link to start trading on Buffer, you (the referer) receive a % from each trade of the referred person. Your referral tier determines the % of trader rebates you receive on each trade your referees make.
 
@@ -44,7 +44,7 @@ If a user who has already traded on Buffer clicks on any Referral Link, this use
 
 Trader rewards are paid out in USDC and accrue in real-time.&#x20;
 
-* **Payout boosts:**
+* **Referee Rewards:**
 
 On the other hand, traders (the referee) who onboard the platform via a referral link to start trading on Buffer, will receive boosts on their payouts as rewards. Similar to referrer rewards, payout boosts received by the referees depend on their referral tier.
 
