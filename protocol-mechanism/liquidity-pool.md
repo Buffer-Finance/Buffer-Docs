@@ -9,7 +9,7 @@ The Buffer liquidity pool acts as the counterparty to all trades on Buffer Finan
 **On Arbitrum:**&#x20;
 
 * USDC-based BLP: earns 55% of platform fees distributed in USDC
-* ARB-based BLP: earns 70% of the platform fees distributed in ARB (via weekly airdrops)
+* ARB-based BLP: earns 70% of the platform fees distributed in ARB (via monthly airdrops)
 
 Liquidity providers to the BLP can deposit in the [USDC vault](https://app.buffer.finance/#/earn) to earn protocol-earned revenue and esBFR rewards. BLP volume, fees collected, BLP/USDC exchange rate, and other pool metrics can be viewed on the [stats](https://stats.buffer.finance/).
 
