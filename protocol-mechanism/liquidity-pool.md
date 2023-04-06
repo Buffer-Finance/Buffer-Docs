@@ -4,15 +4,24 @@ description: Learn the basic mechanism of liquidity provisioning on Buffer
 
 # Liquidity Pool
 
-The USDC-based liquidity pool acts as a counterparty to all trades on Buffer Finance. Liquidity providers to the BLP can deposit in the [USDC vault](https://app.buffer.finance/#/earn) to earn protocol-earned revenue and esBFR rewards. BLP volume, fees collected, BLP/USDC exchange rate, and other pool metrics can be viewed on the [stats](https://stats.buffer.finance/).
+The Buffer liquidity pool acts as the counterparty to all trades on Buffer Finance. BLP is specific network and asset specific.&#x20;
+
+**On Arbitrum:**&#x20;
+
+* USDC-based BLP: earns 55% of platform fees distributed in USDC
+* ARB-based BLP: earns 70% of the platform fees distributed in ARB (via weekly airdrops)
+
+Liquidity providers to the BLP can deposit in the [USDC vault](https://app.buffer.finance/#/earn) to earn protocol-earned revenue and esBFR rewards. BLP volume, fees collected, BLP/USDC exchange rate, and other pool metrics can be viewed on the [stats](https://stats.buffer.finance/).
 
 ### How does it work?
 
 The Buffer liquidity pool acts as a counterparty to the exotic options market on Buffer. It works by locking up a certain amount of liquidity at the time of option buying, which is then used to pay out profits for in-the-money (ITM) options at the time of expiry.'
 
-When an option is bought, the settlement fee (15%) charged is sent to the pool, and the pool locks up the corresponding liquidity. If the option is ITM at the time of expiry, the locked liquidity is sent as a reward to the option holder. This results in a loss for the pool, as the reward payout is higher than the premium received. However, if the option is at-the-money (ATM) or out-of-the-money (OTM) at the time of expiry, the locked liquidity is released, and nothing is sent to the user. The pool then makes a profit from the premium collected at the time of option buying.
+When an option is bought, the settlement fee (15%) charged is sent to the pool, and the pool locks up the corresponding liquidity. If the option is ITM at expiry, the locked liquidity is sent as a reward to the option holder. This results in a loss for the pool, as the reward payout is higher than the premium received. However, if the option is at-the-money (ATM) or out-of-the-money (OTM) at the time of expiry, the locked liquidity is released, and nothing is sent to the user. The pool then profits from the premium collected at the time of option buying.
 
 It's important to note that the locked liquidity is greater than the premium received, which helps to ensure that the pool has enough liquidity to cover potential reward payouts for ITM options. The profit earned by the pool is distributed among the liquidity providers in proportion to the liquidity they have added.
+
+Note that BLP is specific to the network you mint it on, it is not directly transferrable between networks and the price/rewards to the tokens will differ between networks.
 
 ### Risks
 
