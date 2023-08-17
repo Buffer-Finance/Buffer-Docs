@@ -1,7 +1,7 @@
 ---
 description: >-
-  A catalog of all GMX and GLP logos and other relevant platform elements in SVG
-  and PNG formats:
+  A catalog of all BFR logos and other relevant platform elements in SVG and PNG
+  formats:
 ---
 
 # Media Kit
